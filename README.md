@@ -10,7 +10,7 @@ For shooting : Join hands to make gun like shape
 For Jump : Simple jump
 For Run : Simple Run
 
-Download any Emulator and .nes file for play any type of game virtually with my project
+Download any FCEUX Emulator and .nes file for play any type of game virtually with my project
 
 ## Keywords:
 keys, VR game using python, contra using python, super mario using python, python deep learning games, mediapipe games ,playing VR gamea, machine learning project, deep learning project, python bot game, real life game, virtual contra/super mario, pubg/anything.
